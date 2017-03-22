@@ -24,26 +24,26 @@
         "username": "thorinmesser",
         "url": "http://linkedin.com/in/thorinmesser"
       },
-   //   {
-   //     "network": "twitter",
-   //     "username": "mollymal",
-   //     "url": "http://twitter.com/changeme"
-  //    },
-  //    {
-  //      "network": "instagram",
-  //      "username": "molly",
-  //      "url": "http://instagram.com/changeme"
-  //    }
+     {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+      }
     ]
   },
   "interests": [
-//    {
-//      "name": "internet of things",
-//      "keywords": [
-//        "Arduino",
-//        "TI MSP430"
-//      ]
-//    }
+    {
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    }
   ],
   "skills": [
     {
